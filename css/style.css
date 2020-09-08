@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/UTA_parking.jpg);
+    background-size:cover;
+    background-position: center;
+    font-family:Georgia;
+}
+.Log_info{
+    width:280px;
+    height:380px;
+    background: #0040ff;
+    color:whitesmoke;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 60px 55px;
+}
+.Logo{
+width:130px;
+height:130px;
+border-radius: 50%;
+position: absolute;
+top:-20%;
+left:calc(50% - 65px);
+}
+h1{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+}
+.Log_info p{
+margin: 0;
+padding: 0;
+font-weight:700;
+}
+.Madhav{
+    font-size: 16px;
+    color: red;
+    text-align: center;
+}
